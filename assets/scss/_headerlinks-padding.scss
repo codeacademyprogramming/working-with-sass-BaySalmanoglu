@@ -1,0 +1,20 @@
+@mixin headerlinkspadding {
+    padding: 8px 86px;
+    text-align: center;    
+    
+}
+@mixin headerlinkspadding1 {
+    padding: 8px 56px;
+    text-align: center;    
+    
+}
+
+@mixin h1contentdesign {
+    text-align: center;
+    padding: 4px 6px;
+    background-color: black;
+    color: white;
+    font-size: large;
+    letter-spacing: 3px;
+}
+
